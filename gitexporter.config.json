@@ -1,0 +1,7 @@
+{
+    "forceReCreateRepo": true,
+    "targetRepoPath": "cognitive-effort-and-incentives",
+    "sourceRepoPath": ".",
+    "allowedPaths": ["analysis/*","doc/*","experiment/*","model/*","conda-requirements.txt","pip-requirements.txt","README.md"],
+    "ignoredPaths": ["analysis/data/*", "analysis/category-recognition/*", "analysis/rawdata-analysis/*", "gitexporter.config.json"]
+}

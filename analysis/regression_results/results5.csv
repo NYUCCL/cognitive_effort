@@ -1,0 +1,7 @@
+,mean,sd,hdi_2.5%,hdi_97.5%
+Intercept,4.949,0.318,4.336,5.597
+ruleStr[II],-2.415,0.374,-3.152,-1.691
+ruleStr[IV],-2.065,0.388,-2.83,-1.294
+ticketvalue,0.141,0.236,-0.322,0.585
+ruleStr:ticketvalue[II],0.243,0.275,-0.272,0.772
+ruleStr:ticketvalue[IV],0.237,0.279,-0.314,0.769

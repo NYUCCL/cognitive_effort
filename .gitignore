@@ -1,0 +1,8 @@
+server.log
+doc/instructions_readthru.mov
+*.mov
+experiment/server.log
+experiment/PRIVATE_bartels_aws_info.txt
+node_modules
+*.ipynb_checkpoints
+modeling/libraries

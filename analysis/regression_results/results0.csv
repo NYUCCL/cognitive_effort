@@ -1,0 +1,13 @@
+,mean,sd,hdi_2.5%,hdi_97.5%
+Intercept,2.196,0.258,1.7,2.727
+ruleStr[II],-0.808,0.311,-1.449,-0.237
+ruleStr[III],-1.097,0.316,-1.696,-0.467
+ruleStr[IV],-0.756,0.315,-1.336,-0.107
+ruleStr[V],-1.044,0.312,-1.676,-0.446
+ruleStr[VI],-1.591,0.294,-2.162,-1.036
+incentive,0.016,0.013,-0.009,0.043
+ruleStr:incentive[II],-0.026,0.016,-0.057,0.004
+ruleStr:incentive[III],-0.027,0.016,-0.058,0.003
+ruleStr:incentive[IV],-0.026,0.016,-0.056,0.005
+ruleStr:incentive[V],-0.009,0.016,-0.039,0.023
+ruleStr:incentive[VI],-0.013,0.015,-0.043,0.018
